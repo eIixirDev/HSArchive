@@ -1,23 +1,23 @@
 The formula you provided appears to be related to the field of electronics, specifically to the behavior of MOSFETs (Metal-Oxide-Semiconductor Field-Effect Transistors). Here's a breakdown of the formula:
 
-\[ g_m = \mu_n C_{\text{ox}} \frac{W}{L} V_{DS} = \frac{\partial I_D}{\partial V_{GS}} \]
+$\[ g_m = \mu_n C_{\text{ox}} \frac{W}{L} V_{DS} = \frac{\partial I_D}{\partial V_{GS}} \]$
 
 Where:
 
-- \( g_m \) is the transconductance of the MOSFET.
-- \( \mu_n \) is the mobility of electrons in the channel.
-- \( C_{\text{ox}} \) is the oxide capacitance per unit area of the MOSFET.
-- \( W \) is the width of the MOSFET channel.
-- \( L \) is the length of the MOSFET channel.
-- \( V_{DS} \) is the drain-source voltage.
-- \( I_D \) is the drain current.
-- \( V_{GS} \) is the gate-source voltage.
+- $\( g_m \)$ is the transconductance of the MOSFET.
+- $\( \mu_n \)$ is the mobility of electrons in the channel.
+- $\( C_{\text{ox}} \)$ is the oxide capacitance per unit area of the MOSFET.
+- $\( W \)$ is the width of the MOSFET channel.
+- $\( L \)$ is the length of the MOSFET channel.
+- $\( V_{DS} \)$ is the drain-source voltage.
+- $\( I_D \)$ is the drain current.
+- $\( V_{GS} \)$ is the gate-source voltage.
 
 ### Explanation:
 
-- **Transconductance \( g_m \)**: It measures the rate of change of the drain current \( I_D \) with respect to the gate-source voltage \( V_{GS} \) and is a key parameter in the performance of MOSFETs.
+- **Transconductance $\( g_m \)$**: It measures the rate of change of the drain current \( I_D \) with respect to the gate-source voltage \( V_{GS} \) and is a key parameter in the performance of MOSFETs.
 
-- **Electron Mobility \( \mu_n \)**: This is a measure of how quickly electrons can move through the semiconductor material when subjected to an electric field.
+- **Electron Mobility $\( \mu_n \)$**: This is a measure of how quickly electrons can move through the semiconductor material when subjected to an electric field.
 
 - **Oxide Capacitance \( C_{\text{ox}} \)**: This is the capacitance per unit area of the gate oxide layer, which separates the gate terminal from the channel.
 
