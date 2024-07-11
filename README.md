@@ -5,6 +5,7 @@
 - Secure of Hash Functions against Attacks Using Quantum Computers.
 - Quantum Hash Function Based on Controlled Alternate Lively Quantum Walks
 - https://csrc.nist.gov/projects/stateful-hash-based-signatures
+- Collisions-Resistant Hash Function Based on a Logistics Map
 
 qhf.cpp is the implementation of final quantum-resistant hash function.
 
