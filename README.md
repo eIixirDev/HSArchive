@@ -12,3 +12,7 @@ qhf.cpp is the implementation of final quantum-resistant hash function.
 ##### 2. Hashing by dynamic system
 - Design of Secure Chaotic Hash Function Based on Logistic and Tent Maps
 - 
+##### 3. Kp-index Analysis
+- International Real-time Magnetic Observatory Network
+-   - https://intermagnet.org/
+    - 
