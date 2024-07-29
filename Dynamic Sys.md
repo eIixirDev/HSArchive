@@ -88,3 +88,19 @@ plot_system(2, .1, 100, ax=ax1)
 plot_system(3.1, .1, 100, ax=ax2)
 plt.show()
 ```
+# 4. Michael Barnsley, Fractal.
+```py
+int r
+X = [0]; Y = [0] 
+for n in range(10000): 
+    r = RR.random_element (0,100) # 0, 100 사이 난수
+    if r < 86.0: 
+        x = 0.85*X[n-1] + 0.04*Y[n-1]; y = -0.04*X[n-1] + 0.85*Y[n-1]+1.6
+    elif r < 93.0: 
+        x = 0.2*X[n-1] - 0.26*Y[n-1]; y = 0.23*X[n-1] + 0.22*Y[n-1] + 1.6
+    else: 
+        x = -0.15*X[n-1] + 0.28*Y[n-1]; y = 0.26*X[n-1] + 0.24*Y[n-1] + 0.44
+    X.append(x);Y.append(y) # 초기값.append(변수) : 좌표값 대입
+scatter_plot([(X,Y)],edgecolor='green',facecolor='green', marker = '.') 
+#edgecolor : 점 테두리. facecolor : 점 안. marker : 점 모양
+```
