@@ -6,12 +6,12 @@
   - https://www.mathjax.org/
   - 
 
-  # 2. AI
-  - Paper Analysis: https://typeset.io/
-  - https://lean.math.hhu.de/#code=x%20%3D%201%20%0D%0Ax%2B1%20%3D%202%0D%0Ax%5E2%20%3D%202%0D%0A
-  - 
+# 2. AI
+- Paper Analysis: https://typeset.io/
+- https://lean.math.hhu.de/#code=x%20%3D%201%20%0D%0Ax%2B1%20%3D%202%0D%0Ax%5E2%20%3D%202%0D%0A
+- 
 
-# 4. Penetration
+# 3. Penetration
 - https://www.wechall.net/
 - https://ctftime.org/
 - https://www.unknowncheats.me/forum/index.php
