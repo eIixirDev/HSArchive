@@ -1,12 +1,16 @@
 # High School Proj: 2023~2025
- ### 1. Machine Learning
- - Diff-SVC
-    - ASR Acoustic Model $\rightarrow$ PPG(Phonetic Posteriogram).
-    - DDPM(Denoising Diffusion Probabilistic Model) $\rightarrow$ Mel Spectrogram.
- - Let there be color!
+ ## 1. Machine Learning
+ ### 1. Model
+ - Diff-SVC(Diffusion Singing Voice Conversion Model)
+<img src="https://github.com/user-attachments/assets/bf614381-5fdc-4a0d-a898-ec641ee7b09a" width="100" height="100"/>
+
  - NNUE
-    - $\alpha$-$\beta$ pruning
+<img src="https://github.com/user-attachments/assets/8fb2b1d1-29fb-44c4-9634-6482d526ebfd" width="200" height="100"/>
+
+ - Let there be color!
  - Pairformer(AF3)
+
+  ### 2. Structure
  - Promoter Recognition via Seq2Seq(LSTM).
  - High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN(Deep Q-Network).
     - Galaxy Zoo: https://www.zooniverse.org/
