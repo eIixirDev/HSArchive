@@ -1,4 +1,17 @@
 # High School Proj: 2023~2025
+ ### 1. Machine Learning
+ - Diff-SVC
+    - ASR Acoustic Model $\rightarrow$ PPG(Phonetic Posteriogram).
+    - DDPM(Denoising Diffusion Probabilistic Model) $\rightarrow$ Mel Spectrogram.
+ - Let there be color!
+ - NNUE
+    - $\alpha$-$\beta$ pruning
+ - Pairformer(AF3)
+ - Promoter Recognition via Seq2Seq(LSTM).
+ - High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN(Deep Q-Network).
+    - Galaxy Zoo: https://www.zooniverse.org/
+ - Approaching Brachistrone Problem with PPO Algorithm.
+
 ##### 1. Quantum Hash Function
 - Daniel J. Bernstein, Cost Analysis of Hash Collisions: Will Quantum Computers Make SHARCS obsolete?
 - Akinori Hosoyamada, Yu Sasaki, Finding Hash Collisions with Quantum Computers by Using Differential Trails with Smaller Probability than Birthday Bound.
