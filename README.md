@@ -15,6 +15,7 @@
  - High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN(Deep Q-Network).
     - Galaxy Zoo: https://www.zooniverse.org/
  - Approaching Brachistrone Problem with PPO Algorithm.
+ - 
 
 ##### 1. Quantum Hash Function
 - Daniel J. Bernstein, Cost Analysis of Hash Collisions: Will Quantum Computers Make SHARCS obsolete?
