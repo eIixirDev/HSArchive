@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/8fb2b1d1-29fb-44c4-9634-6482d526ebfd" width="200" height="100"/>
 
  - Let there be color!
- - Pairformer(AF3)
+ - GPT-4(Generative Pre-trained Transformer)
 
   ### 2. Structure
  - Promoter Recognition via Seq2Seq(LSTM).
