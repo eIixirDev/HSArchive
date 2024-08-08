@@ -3,5 +3,5 @@
  - Promoter Recognition via Seq2Seq(GRU).
  - High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN(Deep Q-Network).
     - Galaxy Zoo: https://www.zooniverse.org/
- - Approaching Brachistochrone Problem with PPO Algorithm.
+ - Approaching Brachistochrone Problem with PPO Algorithm on 4-dimension bulk.
  - 
