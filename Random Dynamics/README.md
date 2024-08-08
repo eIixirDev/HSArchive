@@ -1,3 +1,10 @@
+# 1. 동역학계
+어떤 공간 X(State space)에 Acting하는 Parameter Group에 대해 동역학계가 만족하는 성질을 탐색하자.
+Complexity of Dynamical System: Invariant Measure, Lyapunov Exponent, Entropy(Topological Entropy, Kolmogorov-Sinai Entropy)
+Birkhoff ergodic thm.: space average w.r.t ergodic measure = time average over orbit of x for a.e.
+i.e. ergodic meausure 위 시간 평균과 state space 평균은 같다.
+Lyapunov Exponent: Map의 Exponential Expansion, Contraction을 나타냄. 
+
 # 1. Bifurcation Diagram
 ```python
 import numpy as np
