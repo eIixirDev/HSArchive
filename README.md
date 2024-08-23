@@ -8,6 +8,7 @@
 
  ## 2. Modeling Asteroids from Short Observation
 **Producing a 3D model of an asteroid from limited and noisy observational data.**
+
 $\pi$-GAN에 영감 받아 진행한 탐구입니다.
 
  *R&E 23' Earth Science 1st, ISEF 24' PHYS, 100ㅅ100, R&E 24' Earth Science*
