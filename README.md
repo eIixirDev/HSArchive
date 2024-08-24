@@ -29,14 +29,13 @@
 3. GPT
  Keyword; PPO, RLHF, Self-supervised, 0S, 1S, FS, Fine-Tuning, Transfer
 
- ### 2. Modeling Asteroids from Short Observation
-**Producing a 3D model of an asteroid from limited and noisy observational data via modifying 3D-GAN**
+ ### 2. Producing a 3D model of an asteroid from limited and noisy observational data via modifying 3D-GAN
  Keyword; $\pi$-GAN, LSTM Autoencoder, 3D-GAN, LSSA, Systematic Noise, Background Noise, KOALA
 
  *R&E 23' Earth Science 1st, ISEF 24' PHYS, 100ㅅ100, R&E 24' Earth Science*
 
  ### 3. Multimodal Network for Personalized Binaural Audio Generation
- Keyword;
+
 
 ### Papers
 - **Solid-body trajectoids shaped to roll along desired pathways**
