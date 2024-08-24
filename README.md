@@ -16,8 +16,8 @@
 
 5. Weather Analysis via Neural PDE & PINN
 
-6. FAST
- Keyword; OpenCV
+6. Video Analysis via ORB(Oriented FAST and Rotated BRIEF) and GMG(Geometric Multi-Grid)
+ Keyword; OpenCV, MoG(Mixture of Gaussians)
 
   ##### 2. Seminars
 개념 설명을 위해 제작한 ppt, md입니다.
