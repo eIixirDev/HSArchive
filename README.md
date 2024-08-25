@@ -41,4 +41,6 @@
 - **Solid-body trajectoids shaped to roll along desired pathways**
 - **Mechanics of the Human Hamstring Muscles during Sprinting**
 - **Design of Secure Chaotic Hash Function Based on Logistic and Tent Maps**
+- **The Spinning Ball Spiral**
+- **The Origin of Chemical Elements**
 - 양자컴퓨팅을 활용한 해시 충돌 탐색.
