@@ -33,8 +33,6 @@
 
  *R&E 23' Earth Science 1st, ISEF 24' PHYS, 100ㅅ100, R&E 24' Earth Science*
 
- #### 3. Multimodal Network for Personalized Binaural Audio Generation
-
 #### 4. High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN.
 
 Keyword; CNN, Q-Learning, Galaxy Zoo(https://www.zooniverse.org/)
