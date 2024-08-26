@@ -20,8 +20,6 @@
 
 2. Pólya Counting
 
-3. Alien Trick
-
 ## 2. Researches
 진짜 호기심에서부터 시작한 탐구 활동들입니다.
 #### 1. Approaching Brachistochrone Problem with TD Learning on 4-dimension bulk.
@@ -46,3 +44,4 @@
 - **The Spinning Ball Spiral**
 - **The Origin of Chemical Elements**
 - **Finding Hash Collisions with Quantum Computers by Using Differential Trails with Smaller Probability than Birthday Bound**
+- **A polynomial-time algorithm for the change-making problem**
