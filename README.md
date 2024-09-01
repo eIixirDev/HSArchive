@@ -8,10 +8,6 @@
 
 2. Weather Forecast via Neural PDE & PINN
 
-3. Video Analysis via ORB(Oriented FAST and Rotated BRIEF) and GMG(Geometric Multi-Grid)
-- OpenCV
-- MoG(Mixture of Gaussians)
-
   #### 2. Seminars
 개념 설명을 위해 제작한 ppt, md입니다.
 1. Square-sum problems
@@ -22,7 +18,7 @@
 
 ## 2. Researches
 탐구 활동.
-#### 1. Simulating Brachistochrone Problem on 4-dimension bulk.
+#### 1. Interpreting Brachistochrone Problem on 4-dimension bulk by KAN.
 - Unreal Engine
 - TD Learning
 
@@ -34,7 +30,7 @@
 
  *R&E 23' Earth Science 1st, ISEF 24' PHYS, 100ㅅ100, R&E 24' Earth Science*
 
-#### 4. High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN.
+#### 3. High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN.
 - CNN, Q-Learning
 - Galaxy Zoo, https://www.zooniverse.org/
 
@@ -46,3 +42,5 @@
 - **The Origin of Chemical Elements**
 - **Finding Hash Collisions with Quantum Computers by Using Differential Trails with Smaller Probability than Birthday Bound**
 - **A polynomial-time algorithm for the change-making problem**
+- **Understanding the Lomb-Scargle Periodogram**
+- **On Possible Binarity of Laetitia Asteroid 39**
