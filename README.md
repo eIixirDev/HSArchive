@@ -1,7 +1,7 @@
 # Welcome to my repo of high school projs(23'~25')
  ## 1. CBSH Projects
   #### 1. Toy Projs
-충북과고 생활기록부 및 학교 행사를 위한 토이 플젝들입니다.
+생활기록부 및 학교 행사.
 1. Developing Reasonable Rating System for the Past Chess Players.
 - NNUE
 - TrueSkill
@@ -21,7 +21,7 @@
 2. Pólya Counting
 
 ## 2. Researches
-진짜 호기심에서부터 시작한 탐구 활동들입니다.
+탐구 활동.
 #### 1. Simulating Brachistochrone Problem on 4-dimension bulk.
 - Unreal Engine
 - TD Learning
