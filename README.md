@@ -22,10 +22,11 @@
 
 ## 2. Researches
 진짜 호기심에서부터 시작한 탐구 활동들입니다.
-#### 1. Approaching Brachistochrone Problem with TD Learning on 4-dimension bulk.
+#### 1. Simulating Brachistochrone Problem on 4-dimension bulk.
 - Unreal Engine
+- TD Learning
 
- #### 2. Producing a 3D model of an asteroid from limited and noisy observational data via modifying 3D-GAN
+#### 2. Producing a 3D model of an asteroid from limited and noisy observational data via modifying 3D-GAN
 - LSTM Autoencoder
 - 3D-GAN, cGAN
 - LSSA
