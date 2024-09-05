@@ -2,11 +2,10 @@
  ## 1. CBSH Projects
   #### 1. Toy Projs
 생활기록부 및 학교 행사.
-1. Developing Reasonable Rating System for the Past Chess Players.
-- NNUE
-- TrueSkill
-
-2. Weather Forecast via Neural PDE & PINN
+1. Promoter Recognition via Seq2Seq(LSTM).
+2. Understanding Weather Forecast
+- Infinite Nested Integral(ICAF, Infinite Compositions of Analytic Functions)
+- Cauchy's infinite integral
 
   #### 2. Seminars
 개념 설명을 위해 제작한 ppt, md입니다.
@@ -18,17 +17,16 @@
 
 ## 2. Researches
 탐구 활동.
-#### 1. Interpreting Brachistochrone Problem on 4-dimension bulk by KAN.
-- Unreal Engine
-- TD Learning
-
-#### 2. Producing a 3D model of an asteroid from limited and noisy observational data via modifying 3D-GAN
-- LSTM Autoencoder
-- 3D-GAN, cGAN
+#### 1. Producing a 3D model of an asteroid from limited and noisy observational data via KAN.
+- KAN
 - LSSA
 - Denoising
 
  *R&E 23' Earth Science 1st, ISEF 24' PHYS, 100ㅅ100, R&E 24' Earth Science*
+
+#### 2. Developing Reasonable Rating System for the Past Chess Players.
+- NNUE
+- TrueSkill
 
 #### 3. High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN.
 - CNN, Q-Learning
