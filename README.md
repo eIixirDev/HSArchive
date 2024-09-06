@@ -4,8 +4,8 @@
 생활기록부 및 학교 행사.
 1. Promoter Recognition via Seq2Seq(LSTM).
 2. Understanding Weather Forecast
-- Infinite Nested Integral(ICAF, Infinite Compositions of Analytic Functions)
-- Cauchy's infinite integral
+  Infinite Nested Integral(ICAF, Infinite Compositions of Analytic Functions)
+  Cauchy's infinite integral
 
   #### 2. Seminars
 개념 설명을 위해 제작한 ppt, md입니다.
@@ -18,21 +18,19 @@
 ## 2. Researches
 탐구 활동.
 #### 1. Producing a 3D model of an asteroid from limited and noisy observational data via KAN.
-- KAN
-- LSSA
-- Denoising
-
+- KAN, LSSA
+- **Understanding the Lomb-Scargle Periodogram**
+- **Optimization Methods for Asteroid Lightcurve Inversion**
+- **Kolmogorov-Arnold Networks: Key Developments and Uses**
+  
  *R&E 23' Earth Science 1st, ISEF 24' PHYS, 100ㅅ100, R&E 24' Earth Science*
 
 #### 2. Developing Reasonable Rating System for the Past Chess Players.
-- NNUE
-- TrueSkill
+- NNUE, TrueSkill
 
 #### 3. High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN.
 - CNN, Q-Learning
 - Galaxy Zoo, https://www.zooniverse.org/
-
-#### 4. NIS(Nursing Information System)
 
 ## 3. Papers
 - **Solid-body trajectoids shaped to roll along desired pathways**
@@ -42,5 +40,3 @@
 - **The Origin of Chemical Elements**
 - **Finding Hash Collisions with Quantum Computers by Using Differential Trails with Smaller Probability than Birthday Bound**
 - **A polynomial-time algorithm for the change-making problem**
-- **Understanding the Lomb-Scargle Periodogram**
-- **On Possible Binarity of Laetitia Asteroid 39**
