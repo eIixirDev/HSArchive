@@ -2,10 +2,10 @@
  ## 1. CBSH Projects
   #### 1. Toy Projs
 생활기록부 및 학교 행사.
-1. Promoter Recognition via Seq2Seq(LSTM).
+1. Reasonable Rating System for the Past Chess Players.
+- NNUE, TrueSkill
 2. Understanding Weather Forecast
-  Infinite Nested Integral(ICAF, Infinite Compositions of Analytic Functions)
-  Cauchy's infinite integral
+
 
   #### 2. Seminars
 개념 설명을 위해 제작한 ppt, md입니다.
@@ -25,11 +25,8 @@
   
  *R&E 23' Earth Science 1st, ISEF 24' PHYS, 100ㅅ100, R&E 24' Earth Science*
 
-#### 2. Developing Reasonable Rating System for the Past Chess Players.
-- NNUE, TrueSkill
-
-#### 3. High-Precision Morphological Classification of Galaxies Using Multiband Image Processing and DQN.
-- CNN, Q-Learning
+#### 2. Complicated Image Segmentation by DQN.
+- High-Precision Morphological Classification of Galaxies by DQN.
 - Galaxy Zoo, https://www.zooniverse.org/
 
 ## 3. Papers
