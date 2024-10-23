@@ -8,7 +8,7 @@ Only source code of finished projects will be exposed.
 
 ### 2. Researches
 ##### 1. Decomposing Lightcurve Inversion via KAN.
-
+LSSA
 ##### 2. Reasonable Rating System for Chess
 NNUE, TrueSkill
 
