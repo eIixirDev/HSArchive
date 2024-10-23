@@ -2,13 +2,19 @@
 
 Only source code of finished projects will be exposed.
 
-### 1. Toy Projects & Seminars
+### 1. Simple Applications
 - 2D Brachistochrone Problem with TD Learning
-- What is Ninja Pair?
+- MCTS Algorithm for Discrete Dynamic System Analysis
 
 ### 2. Researches
-##### 1. Producing a 3D model of an asteroid from limited and noisy observational data via KAN.
+##### 1. Decomposing Lightcurve Inversion via KAN.
 
-##### 2. Reasonable Rating System for Chess.
+##### 2. Reasonable Rating System for Chess
+NNUE, TrueSkill
 
 ##### 3. Emulating Brain Network Flow for Flexible Vision System.
+TBD.
+
+##### 4. Quantum Circuit Searching Any Hash Collision In $\mathcal{O}()$
+
+##### 5. 
