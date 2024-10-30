@@ -9,12 +9,5 @@ Only source code of finished projects will be exposed.
 ### 2. Researches
 ##### 1. Decomposing Lightcurve Inversion via KAN.
 LSSA
-##### 2. Reasonable Rating System for Chess
-NNUE, TrueSkill
-
 ##### 3. Emulating Brain Network Flow for Flexible Vision System.
 TBD.
-
-##### 4. Quantum Circuit Searching Any Hash Collision In $\mathcal{O}()$
-
-##### 5. 
