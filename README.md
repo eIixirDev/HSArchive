@@ -15,6 +15,7 @@
 - Algorithmic Trading with Elixir
 - Educational Motion Graphic Video (Calculus)
 - [R&E] How CZT Improves FFT and Laplace Transforms
+- [Report] Analyzing K-mers with de Bruijn sequences
 
 #### Failures
 - [23'] Vanilla SVD and LOF are Poor at Outlier Detection
