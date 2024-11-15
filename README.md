@@ -16,6 +16,7 @@
 - Algorithmic Trading with Elixir
 - Educational Motion Graphic Video (Calculus)
 - [R&E] How CZT Improves FFT and Laplace Transforms
+  - Damping을 예로 설명합니다.
 - [Report] Simulating and Preprocessing Thistlethwaite's 52-Move Algorithm
 
 #### Failures
