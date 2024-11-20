@@ -8,17 +8,12 @@
 
 #### 24'
 - [KSEF] Grasping with Recurrent Model Paves Visual CoT
-- [Report] What is Lagrangian Relaxation?
 - [Report] Modeling Gravitational Lensing
-- [Report] Analyzing K-mers with de Bruijn sequences
 
 #### 25'  
-- Algorithmic Trading with Elixir
-- Educational Motion Graphic Video (Calculus)
+- Educational Motion Graphic Video (Calculus, Algorithm)
 - [R&E] How CZT Improves FFT and Laplace Transforms
   - Damping을 예로 설명합니다.
-- [Report] Simulating and Preprocessing Thistlethwaite's 52-Move Algorithm
-
+  
 #### Failures
 - [23'] Vanilla SVD and LOF are Poor at Outlier Detection
-- [23'] Eliminating Error of Debye–Hückel Theory
