@@ -14,6 +14,7 @@
 - Educational Motion Graphic Video (Calculus, Algorithm)
 - [R&E] How CZT Improves FFT and Laplace Transforms
   - Damping을 예로 설명합니다.
+ - Overcoming Debye–Hückel Theory
   
 #### Failures
 - [23'] Vanilla SVD and LOF are Poor at Outlier Detection
