@@ -5,9 +5,8 @@
 - [Report] Dense Core Recognition of MCLD123.5+24.9
 
 #### 24'
-- [ISEF] Lightcurve Inversion with KAN and Binarity of (39) Laetitia
-- [ISEF] Grasping with Recurrent Model Paves Visual CoT
+- [Regeneron ISEF] Lightcurve Inversion with KAN and Binarity of (39) Laetitia
+- [Regeneron ISEF] Grasping with Recurrent Model Paves Visual CoT
 
 #### 25'  
 - Educational Motion Graphic Video (Calculus, Algorithm)
-- [Report] How CZT Overjumps FFT and Laplace Transforms: Convolution(Damping, Multiplication)
